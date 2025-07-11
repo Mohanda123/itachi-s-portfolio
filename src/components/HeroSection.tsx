@@ -8,7 +8,7 @@ const HeroSection = () => {
   const roles = [
     'Full Stack Developer',
     'AI Enthusiast',
-    'Tamil Tech Pioneer',
+    'Machine Learning Engineer',
     'Innovation Builder'
   ];
 
@@ -64,8 +64,8 @@ const HeroSection = () => {
           </div>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
-            Blending the elegance of Tamil heritage with cutting-edge technology to create 
-            innovative solutions in AI and full-stack development.
+            "I'm Mohan, a passionate full-stack developer and AI enthusiast.
+             I love turning complex problems into smart, user-friendly solutions."
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -87,7 +87,7 @@ const HeroSection = () => {
         {/* Tamil Greeting */}
         <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 text-center">
           <p className="font-tamil text-accent mb-2">வணக்கம்</p>
-          <p className="text-sm text-muted-foreground">Welcome</p>
+          
         </div>
       </div>
 

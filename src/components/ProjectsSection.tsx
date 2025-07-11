@@ -36,8 +36,8 @@ const ProjectsSection = () => {
       description: "LifeConnect is a web-based platform designed to facilitate blood and organ donation by efficiently connecting donors with recipients.",
       category: "ai",
       tags: ["Python", "Machine Learning", "Web Development", "Healthcare"],
-      github: "https://github.com/mohan/lifeconnect",
-      live: "https://lifeconnect.herokuapp.com",
+      github: "https://github.com/Mohanda123/LifeConnect",
+      live: "https://life-connect-pearl.vercel.app/",
       featured: true
     },
     {
@@ -56,8 +56,8 @@ const ProjectsSection = () => {
       description: "A career guidance platform that offers resume optimization, interview training, and LinkedIn profile enhancement to help job seekers improve their chances.",
       category: "fullstack",
       tags: ["Career Guidance", "Resume Optimization", "Interview Training", "LinkedIn"],
-      github: "https://github.com/mohan/ace-your-resume",
-      live: "https://ace-your-resume.com",
+      github: "https://github.com/Mohanda123/AceYourResume",
+      live: "https://ace-your-resume.vercel.app/",
       featured: true
     },
     {
@@ -66,18 +66,18 @@ const ProjectsSection = () => {
       description: "An e-commerce website for selling traditional clay pots and clay items, promoting eco-friendly products and cultural heritage.",
       category: "fullstack",
       tags: ["E-commerce", "Cultural Heritage", "Traditional Crafts", "Eco-friendly"],
-      github: "https://github.com/mohan/maan-mayil",
-      live: "https://maan-mayil.com",
+      github: "https://github.com/Mohanda123/MaanMayil",
+      live: "https://maanmayil.vercel.app/",
       featured: false
     },
     {
       id: 5,
-      title: "PERSONAL CHAT BOT",
+      title: "Sushi-PERSONAL CHAT BOT",
       description: "An intelligent chatbot designed for personal assistance and customer service interactions.",
       category: "ai",
       tags: ["Chatbot", "Natural Language Processing", "AI", "Customer Service"],
-      github: "https://github.com/mohan/personal-chatbot",
-      live: "https://personal-chatbot.netlify.app",
+      github: "https://github.com/Mohanda123/Sushi",
+      live: "https://sushi-liard.vercel.app/",
       featured: false
     },
     {
@@ -86,8 +86,8 @@ const ProjectsSection = () => {
       description: "imeTutor is a free, AI-powered study planner built specially for students who love to learn at night! . It helps you create smart, personalized study schedules, track your progress, and stay motivated — all with a fun and friendly vibe.",
       category: "ai",
       tags: ["AI", "ML", "fullstack"],
-      github: "https://github.com/mohan/extaze-iot",
-      live: "https://extaze-iot.com",
+      github: "https://github.com/Mohanda123/time-tutor-smart-plan-main",
+      live: "https://time-tutor.vercel.app/",
       featured: false
     }
   ];
@@ -229,3 +229,6 @@ const ProjectsSection = () => {
 };
 
 export default ProjectsSection;
+
+
+

@@ -16,8 +16,7 @@ const Footer = () => {
                 மோகன்
               </div>
               <p className="text-muted-foreground leading-relaxed">
-                Blending Tamil heritage with modern technology to create innovative solutions 
-                in AI and full-stack development.
+                Turning ideas into digital reality with code, care, and creativity.
               </p>
             </div>
 
@@ -40,16 +39,12 @@ const Footer = () => {
             {/* Cultural Element */}
             <div className="text-center md:text-right">
               <div className="inline-block">
-                <img 
-                  src={kolamPattern} 
-                  alt="Traditional Kolam Pattern" 
-                  className="w-16 h-16 opacity-60 mx-auto md:ml-auto animate-float"
-                />
+                
                 <p className="font-tamil text-accent text-sm mt-2">
-                  பாரம்பரியம் + புதுமை
+                   படைப்பாற்றல் + புதுமை
                 </p>
                 <p className="text-xs text-muted-foreground">
-                  Tradition + Innovation
+                  Creativity + Innovation
                 </p>
               </div>
             </div>
