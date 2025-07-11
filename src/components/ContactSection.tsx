@@ -82,8 +82,8 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'mohanmaranmani172@gmail.com',
-      href: 'mailto:mohanmaranmani172@gmail.com'
+      value: 'mohanmanivannan123@gmail.com',
+      href: 'mailto:mohanmanivannan123@gmail.com'
     },
     {
       icon: Phone,
@@ -94,7 +94,7 @@ const ContactSection = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'salem, Tamil Nadu',
+      value: 'chennai, Tamil Nadu',
       href: '#'
     }
   ];

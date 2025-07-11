@@ -35,6 +35,15 @@ const AboutSection = () => {
     { name: 'Artificial Intelligence', percentage: 85, icon: Brain },
     { name: 'Machine Learning', percentage: 80, icon: Brain },
     { name: 'Data Science', percentage: 85, icon: Globe },
+    { name: '(html/css)', percentage: 98, icon: Palette },
+    { name: 'react', percentage: 75, icon:Code},
+    { name: 'django', percentage: 65, icon: Globe },
+    { name: 'Java Script', percentage: 85, icon: Code },
+    { name: 'Firebase', percentage: 85, icon: Globe },
+    { name: 'My Sql', percentage: 75, icon: Globe },
+    { name: 'Mango DB', percentage: 65, icon: Globe },
+    { name: 'git', percentage: 85, icon: Code },
+    
   ];
 
   return (
