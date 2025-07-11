@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { Code, Brain, Palette, Globe } from 'lucide-react';
 import profilePhoto from '../assets/profile-photo.jpg';
-import kolamPattern from '../assets/kolam-pattern.jpg';
+
 
 const AboutSection = () => {
   const sectionRef = useRef<HTMLElement>(null);
@@ -50,7 +50,7 @@ const AboutSection = () => {
     <section id="about" ref={sectionRef} className="py-20 relative">
       {/* Background Elements */}
       <div className="absolute top-20 right-10 opacity-20">
-        <img src={kolamPattern} alt="Kolam Pattern" className="w-32 h-32 animate-float" />
+        
       </div>
 
       <div className="container mx-auto px-4">
