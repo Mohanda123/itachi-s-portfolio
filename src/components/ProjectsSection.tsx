@@ -82,10 +82,10 @@ const ProjectsSection = () => {
     },
     {
       id: 6,
-      title: "EXTAZE SOFTWARE SOLUTION",
-      description: "Training on INTERNET OF THINGS to learn familiarity with the basic layers of IoT architecture and understand what IoT is, how it connects devices.",
-      category: "iot",
-      tags: ["IoT", "Internet of Things", "Device Connectivity", "Architecture"],
+      title: "Time Tutor",
+      description: "imeTutor is a free, AI-powered study planner built specially for students who love to learn at night! . It helps you create smart, personalized study schedules, track your progress, and stay motivated — all with a fun and friendly vibe.",
+      category: "ai",
+      tags: ["AI", "ML", "fullstack"],
       github: "https://github.com/mohan/extaze-iot",
       live: "https://extaze-iot.com",
       featured: false
