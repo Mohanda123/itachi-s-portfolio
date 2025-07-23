@@ -97,7 +97,7 @@ const ProjectsSection = () => {
     { key: 'featured', label: 'Featured' },
     { key: 'ai', label: 'AI & ML' },
     { key: 'fullstack', label: 'Full Stack' },
-    { key: 'iot', label: 'IoT' }
+
   ];
 
   const filteredProjects = projects.filter(project => {
