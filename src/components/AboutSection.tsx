@@ -31,7 +31,7 @@ const AboutSection = () => {
   }, []);
 
   const skills = [
-    { name: 'Python Development', percentage: 90, icon: Code },
+    { name: 'Python Developer', percentage: 90, icon: Code },
     { name: 'Artificial Intelligence', percentage: 85, icon: Brain },
     { name: 'Machine Learning', percentage: 80, icon: Brain },
     { name: 'Data Science', percentage: 85, icon: Globe },
