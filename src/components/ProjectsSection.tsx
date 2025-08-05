@@ -46,8 +46,8 @@ const ProjectsSection = () => {
       description: "Sync music and chat with your friends! A platform for real-time music sharing and social interaction.",
       category: "fullstack",
       tags: ["Python", "Real-time Sync", "Chat System", "Music API"],
-      github: "https://github.com/mohan/vibe-sync",
-      live: "https://vibe-sync.vercel.app",
+      github: "https://github.com/Mohanda123/vibe-Sync",
+      live: "https://vibe-sync-ten.vercel.app/",
       featured: true
     },
     {
