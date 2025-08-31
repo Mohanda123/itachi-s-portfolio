@@ -40,17 +40,7 @@ const ProjectsSection = () => {
       live: "https://life-connect-pearl.vercel.app/",
       featured: true
     },
-    {
-      id: 1,
-      title: "LIFECONNECT: AI-ENHANCED DONOR SYSTEM USING ML",
-      description: "LifeConnect is a web-based platform designed to facilitate blood and organ donation by efficiently connecting donors with recipients.",
-      category: "ai",
-      tags: ["Python", "Machine Learning", "Web Development", "Healthcare"],
-      github: "https://github.com/Mohanda123/LifeConnect",
-      live: "https://life-connect-pearl.vercel.app/",
-      featured: true
-    },
-    {
+      {
       id: 2,
       title: "Pasi Thulir",
       description: "Pasithulir is a food donation platform that connects surplus food donors with needy people to reduce wastage. It promotes hunger relief and social responsibility using technology.",
@@ -58,6 +48,16 @@ const ProjectsSection = () => {
       tags: ["Python", "react", "webdevelopment", "social awareness"],
       github: "https://github.com/Mohanda123/pasi-thulir",
       live: "https://pasi-thulir.vercel.app/",
+      featured: true
+    },
+    {
+      id: 2,
+      title: "VIBE SYNC",
+      description: "Sync music and chat with your friends! A platform for real-time music sharing and social interaction.",
+      category: "fullstack",
+      tags: ["Python", "Real-time Sync", "Chat System", "Music API"],
+      github: "https://github.com/Mohanda123/vibe-Sync",
+      live: "https://vibe-sync-ten.vercel.app/",
       featured: true
     },
     {
